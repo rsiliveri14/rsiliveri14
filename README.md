@@ -10,10 +10,17 @@
   <a href="mailto:rsiliveri@binghamton.edu"><img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
+---
 
+## 👨‍💻 About Me
 
+- 🎓 Graduate Student in Computer Science @ **Binghamton University**  
+- 🎯 AI and ML-focused with experience in predictive modeling & real-time analytics  
+- 🧠 Passionate about **deep learning**, **LLMs**, and building data-driven products  
+- 🌐 Worked on large-scale data collection, visualization, and model deployment pipelines  
+- 📚 Always learning — currently diving into **LLMs**, **transfer learning**, and **MLOps**
 
-
+---
 
 ## 🛠 Tech Stack & Tools
 
@@ -37,7 +44,7 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel)
 
-
+---
 
 ## 🚀 My Projects
 
@@ -56,10 +63,13 @@
 
 
 
+---
+
 ## 🔍 Currently Exploring
 
-- 🧠 Transfer Learning in CNNs  
-- 💬 LLMs for Summarization & Sentiment Analysis  
-- 🕸️ Building ETL pipelines for streaming data  
-- 📈 Advanced model tuning and performance optimization  
-
+- 🤖 **Transfer Learning with ResNet, BERT**
+- 💬 **LLMs for summarization & reasoning**
+- 📡 **Streaming pipelines (Kafka, TimescaleDB)**
+- 🧪 **Advanced model tuning & experimentation**
+- 🔄 **MLOps / CI-CD pipelines**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=100&section=footer"/>
