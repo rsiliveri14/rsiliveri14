@@ -1,38 +1,19 @@
-<h1 align="center">
-  Hey there! 👋 I'm Rohith Vardhan Siliveri
-</h1>
+<h1 align="center">Hey there! 👋 I'm Rohith Vardhan Siliveri</h1>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=460&lines=Graduate+Student+in+CS+%7C+AI+Focus;Machine+Learning+Enthusiast+%F0%9F%A7%90;Data+Scientist+in+the+Making+%F0%9F%93%88;Building+ML+%7C+AI+%7C+Analytics+Projects">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=460&lines=Graduate+Student+in+CS+%7C+AI+Focus;Machine+Learning+Enthusiast+%F0%9F%A7%90;Data+Scientist+in+the+Making+%F0%9F%93%88;Building+ML+%7C+AI+%7C+Analytics+Projects" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=AI+%7C+ML+%7C+Data+Science+Explorer;Engineer+%F0%9F%A4%96+who+loves+learning;Building+Smart+Systems+%E2%9A%99%EF%B8%8F;Crafting+Projects+with+Purpose+%F0%9F%92%BC" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/rohithsiliveri">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/rsiliveri14">
-    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:rsiliveri@binghamton.edu">
-    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://linkedin.com/in/rohithsiliveri"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/rsiliveri14"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="mailto:rsiliveri@binghamton.edu"><img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
----
 
-<img align="right" alt="Coding GIF" width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
-## 💡 About Me
 
-- 🎓 Master’s in Computer Science @ **Binghamton University**, AI Concentration  
-- 💼 Former Intern @ **LTIMindtree**, **Sodexo**, and other research/academic roles  
-- 🧠 Passionate about **Machine Learning**, **AI**, and building data-driven solutions  
-- 🛠️ Skilled in Python, SQL, and model tuning using GridSearchCV & XGBoost  
-- 🌍 Building real-time pipelines, NLP systems, and Power BI dashboards  
 
----
 
 ## 🛠 Tech Stack & Tools
 
@@ -56,23 +37,24 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel)
 
----
 
-## 🚀 Featured Projects
 
-- 🏠 **[House Price Prediction](https://github.com/rsiliveri14/House-price-prediction)**  
-  ML-powered model using XGBoost & Random Forest with R² > 0.92. Predicts home values from 20+ input features.
+## 🚀 My Projects
 
-- 💬 **[Cyberbullying Detection](https://github.com/rsiliveri14/Cyberbullying-tweet-detection)**  
-  NLP + OCR + Deep Learning: Achieved 97.92% accuracy in classifying harmful content in tweets & images.
+### 🏡 [House Price Prediction](https://github.com/rsiliveri14/House-price-prediction)
+> Built a regression pipeline using XGBoost, achieving an R² > 0.92. Includes GridSearchCV tuning, pickle-based deployment, and full feature engineering.
 
-- 📊 **[Super Bowl Ads Analysis](https://github.com/rsiliveri14/Super-bowl-ads-analysis)**  
-  Built an interactive Power BI dashboard for $50M+ ad trends. Found 35% engagement lift with targeted spending.
+### 🧠 [Cyberbullying Detection (Text + Image)](https://github.com/rsiliveri14/Cyberbullying-tweet-detection)
+> Detected offensive tweets using NLP and OCR. Combined text classification with visual cues. Achieved 97.92% accuracy.
 
-- 🌐 **[Social Media Data Analytics](https://github.com/Rohith595272/SocialMedia-Data-Analysis)**  
-  Real-time sentiment analysis from Reddit & 4chan using TimescaleDB. Tracked political events and user behavior.
+### 📺 [Super Bowl Ads Analysis](https://github.com/rsiliveri14/Super-bowl-ads-analysis)
+> Used Power BI to analyze 50+ years of Super Bowl ad data. Uncovered 165x cost surge & optimized budgeting strategy with predictive insights.
 
----
+### 🌐 [Social Media Sentiment Analysis](https://github.com/Rohith595272/SocialMedia-Data-Analysis)
+> Built custom 4chan and Reddit crawlers; processed 5 M+ posts; tracked real-time public sentiment and event correlations.
+
+
+
 
 ## 🔍 Currently Exploring
 
@@ -80,6 +62,4 @@
 - 💬 LLMs for Summarization & Sentiment Analysis  
 - 🕸️ Building ETL pipelines for streaming data  
 - 📈 Advanced model tuning and performance optimization  
-
----
 
