@@ -14,9 +14,10 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/rohithsiliveri"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:rsiliveri@binghamton.edu"><img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/rsiliveri14"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="mailto:rsiliveri@binghamton.edu"><img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/rohithsiliveri"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" /></a>
+
 </p>
 
 ---
