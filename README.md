@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm Rohith Vardhan Siliveri</h1>
 
 <p align="center">
-  <img src="[your-image-path/ghibli-profile.jpg](https://github.com/rsiliveri14/rsiliveri14/blob/main/ghibli-profile.jpg)" alt="Ghibli Style Avatar" width="300" />
+  <img src="https://github.com/rsiliveri14/rsiliveri14/blob/main/ghibli-profile.jpg" alt="Ghibli Style Avatar" width="300" />
 </p>
 
 <p align="center">
