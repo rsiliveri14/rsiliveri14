@@ -1,4 +1,9 @@
-<h1 align="center">Hey there! 👋 I'm Rohith Vardhan Siliveri</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1&pause=1000&color=F7971E&center=true&vCenter=true&width=1000&lines=Hey+there!+%F0%9F%91%8B+I'm+Rohith+Vardhan+Siliveri" alt="Animated Header" />
+</p>
+
+
+
 
 <p align="center">
   <img src="https://github.com/rsiliveri14/rsiliveri14/blob/main/ghibli-profile.jpg" alt="Ghibli Style Avatar" width="175" />
