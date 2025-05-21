@@ -1,6 +1,10 @@
 <h1 align="center">Hey there! 👋 I'm Rohith Vardhan Siliveri</h1>
 
 <p align="center">
+  <img src="your-image-path/ghibli-profile.jpg" alt="Ghibli Style Avatar" width="300" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=AI+%7C+ML+%7C+Data+Science+Explorer;Engineer+%F0%9F%A4%96+who+loves+learning;Building+Smart+Systems+%E2%9A%99%EF%B8%8F;Crafting+Projects+with+Purpose+%F0%9F%92%BC" alt="Typing SVG" />
 </p>
 
@@ -60,9 +64,6 @@
 ### 🌐 [Social Media Sentiment Analysis](https://github.com/Rohith595272/SocialMedia-Data-Analysis)
 > Built custom 4chan and Reddit crawlers; processed 5 M+ posts; tracked real-time public sentiment and event correlations.
 
-
-
-
 ---
 
 ## 🔍 Currently Exploring
@@ -72,4 +73,5 @@
 - 📡 **Streaming pipelines (Kafka, TimescaleDB)**
 - 🧪 **Advanced model tuning & experimentation**
 - 🔄 **MLOps / CI-CD pipelines**
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=100&section=footer"/>
