@@ -76,7 +76,7 @@
   Strengthened database querying skills essential for data-intensive applications
 
 - 🛠️ **IT Essentials** – Cisco Networking Academy  
-  Learned key systems skills including OS setup, LAN configuration, and security protocols
+  Learned key systems skills, including OS setup, LAN configuration, and security protocols
 
 - 🤖 **ML Bootcamp + Hackathon (24 hrs)** – SmartBridge & Anurag University  
   Applied ML concepts in a real-time competition, demonstrating quick learning and model deployment
@@ -104,18 +104,7 @@
 
 - **Cyberbullying Detection Using Machine Learning**  
   _International Research Journal of Engineering and Technology (IRJET)_, Vol. 10, Issue 3 — [Read here](https://www.irjet.net/archives/V10/i3/IRJET-V10I3189.pdf)
-
 ---
-
-## 🔍 Currently Exploring
-
-- 📡 **Streaming pipelines (Kafka, TimescaleDB)**
-- 🧪 **Advanced model tuning & experimentation**
-- 🔄 **MLOps / CI-CD pipelines**
-
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=100&section=footer" width="100%" />
 
 
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=100&section=footer"/>
