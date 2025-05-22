@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/rsiliveri14/rsiliveri14/blob/main/ghibli-profile.jpg" alt="Ghibli Style Avatar" width="175" />
+  <img src="https://github.com/rsiliveri14/rsiliveri14/blob/main/ghibli-pic.jpg" alt="Ghibli Style Avatar" width="275" />
 </p>
 
 <p align="center">
