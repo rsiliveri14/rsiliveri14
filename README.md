@@ -20,7 +20,6 @@
 
 ## 👨‍💻 About Me
 <p align="center">
-  <img src="https://img.shields.io/badge/Star%20Performer-LTI%20Mindtree-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Coding%20ninjas%20Certified-Python%20Excellence-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/IBM%20Certified-Data%20Analysis%20with%20Python-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Certified-Cloud%20Computing%20%26%20Big%20Data-purple?style=for-the-badge" />
